@@ -530,7 +530,7 @@ that do not include `glibc` by default.
 Install `kubectl` by following the instructions on [Install Tools page](/docs/tasks/tools/#kubectl).
 Enable and start `kubelet`:
 -->
-请参照[安装工具页面](/zh-cn/docs/tasks/tools/#kubectl)的说明安装 `kubelet`。
+请参照[安装工具页面](/zh-cn/docs/tasks/tools/#kubectl)的说明安装 `kubectl`。
 激活并启动 `kubelet`：
 
 ```bash
